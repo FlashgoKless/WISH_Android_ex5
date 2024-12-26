@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task3_5</string>
+    <string name="hint_enter_title">Введите название книги</string>
+    <string name="button_search">Поиск</string>
+    <string name="toast_enter_valid_title">Введите корректное название.</string>
+    <string name="book_title">Название: %1$s</string>
+    <string name="book_author">Автор: %1$s</string>
+    <string name="unknown_author">Неизвестен</string>
+</resources>
